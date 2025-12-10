@@ -1,0 +1,1 @@
+/* Base styles */\nbody {\n  margin: 0;\n  font-family: system-ui, sans-serif;\n}\n/* TODO: style hero, about, projects, contact */\n@media (max-width: 640px) {\n  /* mobile adjustments */\n}
